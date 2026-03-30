@@ -35,9 +35,9 @@ I'm a **Computer Science graduate** from the University of Nairobi, passionate a
 |------|-----------|
 | **Data Structures & Algorithms** | 95% |
 | **Database Management** | 90% |
-| **Machine Learning** | 93% |
+| **Machine Learning** | 85% |
 | **Software Engineering** | 92% |
-| **System Architecture** | 90% |
+| **System Architecture** | 85% |
 
 ---
 
@@ -87,11 +87,6 @@ I'm a **Computer Science graduate** from the University of Nairobi, passionate a
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-<img width="1246" height="440" alt="image" src="https://github.com/user-attachments/assets/4929b30e-9385-42dc-b0c7-16be6ede07e4" />
-
 
 ---
 
